@@ -1,0 +1,5 @@
+# Kit, bundle, and usage files are not part of the entry
+news-image-20261121-kit/
+transcripts.tar.gz
+transcripts-v*.tar.gz
+muse-usage.jsonl
